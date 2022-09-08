@@ -16,7 +16,7 @@
   <nav class="navbar navbar-expand-lg bg-dark">
     <div class="container">
 
-    <a class="navbar-brand" href="latihan1.php">
+    <a class="navbar-brand" href="index.php">
         <h4>Trik Movie</h4>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,7 +24,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="latihan1.php">Search Movie</a>            
+            <a class="nav-link active" aria-current="page" href="index.php">Search Movie</a>            
         </div>
         </div>
     </div>
